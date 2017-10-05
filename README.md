@@ -1,2 +1,3 @@
 # Mouse-Locater-and-Analyzer-
 Java based real time mouse functioning and location finding software
+It is a very interesting tool which can tell you everything about the mouse, be it its functionality or location. The tool helps you recognise when the mouse is inside the window when it is outside, when it is pressed also is can tell you the exact X and Y co-ordinates of any location where the mouse is pointed. Thus in this way we can use it to design any screen interface ,decide the postioning of buttons, there size, text area ,etc. It turns out ot be a very handy tool when it comes to designing Graphic User Interface.
